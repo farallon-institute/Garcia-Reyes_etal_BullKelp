@@ -1,7 +1,7 @@
 Repository of code for the Paper:
 
 
-Winter oceanographic conditions predict summer bull kelp canopy cover in northern California 
+<b>Winter oceanographic conditions predict summer bull kelp canopy cover in northern California </b>
 
 M. García-Reyes, S.A. Thompson, L. Rogers-Bennett, W.J. Sydeman
 
